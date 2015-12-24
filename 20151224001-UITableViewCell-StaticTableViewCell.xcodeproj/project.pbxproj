@@ -105,10 +105,6 @@
 				D5BB83A51C2BD9A400C3C789 /* AppDelegate.m */,
 				D5BB83A71C2BD9A400C3C789 /* ViewController.h */,
 				D5BB83A81C2BD9A400C3C789 /* ViewController.m */,
-				D5BB83AA1C2BD9A400C3C789 /* Main.storyboard */,
-				D5BB83AD1C2BD9A400C3C789 /* Assets.xcassets */,
-				D5BB83AF1C2BD9A400C3C789 /* LaunchScreen.storyboard */,
-				D5BB83B21C2BD9A400C3C789 /* Info.plist */,
 				D5BB83A11C2BD9A400C3C789 /* Supporting Files */,
 			);
 			path = "20151224001-UITableViewCell-StaticTableViewCell";
@@ -117,6 +113,10 @@
 		D5BB83A11C2BD9A400C3C789 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D5BB83AA1C2BD9A400C3C789 /* Main.storyboard */,
+				D5BB83AD1C2BD9A400C3C789 /* Assets.xcassets */,
+				D5BB83B21C2BD9A400C3C789 /* Info.plist */,
+				D5BB83AF1C2BD9A400C3C789 /* LaunchScreen.storyboard */,
 				D5BB83A21C2BD9A400C3C789 /* main.m */,
 			);
 			name = "Supporting Files";
